@@ -1,0 +1,12 @@
+site_name: tstamp
+site_description: RESTful API for working with Unix timestamps and natural language timestamps
+repo_url: https://github.com/jesmin-n/timestamp-microservice
+site_dir: site
+copyright: Copyright &copy; 2018, <a href="https://github.com/jesmin-n">jesmin-n</a>.
+dev_addr: 0.0.0.0:8001
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
